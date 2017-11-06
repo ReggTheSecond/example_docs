@@ -3,6 +3,11 @@
 
 **Change made on prose.io**
 
-Made after _Require pull request reviews before merging_
+## Issues with these Markup Text Exitors
 
-Made after _Include administrators_
+They do not allow you to choose or create a branch to commit to.
+
+**MarkdownPad**
+Might be a good solution for people who are not as computer literital. Only works on windows.
+
+
