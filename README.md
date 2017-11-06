@@ -1,29 +1,29 @@
-# ReadMe
+- # ReadMe
 
-**Change made on prose.io**
+  **Change made on prose.io**
 
-## Issues with these Markup Text Exitors
+  ## Issues with these Markup Text Editors
 
-They do not allow you to choose or create a branch to commit to.
+  They do not allow you to choose or create a branch to commit to.
 
-**Markdown Editor Issues**
+  **Markdown Editor Issues**
 
-- Might be a good solution for people who are not as computer literital. Only works on windows.
-- Many are not very user friendly, relying on hotkeys to add formating, dropdown menus or pure memory.
+  - Might be a good solution for people who are not as computer literal. Only works on windows.
+  - Many are not very user-friendly, relying ting, dropdown menus or pure memory.
 
-## **Markdown Editors Examined and issues with them:**
+  ## **Markdown Editors Examined and issues with them:**
 
-**Typora**
+  **Typora**
 
-Pros:
+  Pros:
 
-- File tree is clean and easy to use
-- Displays in preview by default
+  - File tree is clean and easy to use
+  - Displays in preview by default
 
-Cons:
+  Cons:
 
-- No direct GitHub intergration
-- Formating functions only accessable via Hotkeys and Dropdown menus
+  - No direct GitHub intergration
+  - Formating functions only accessable via Hotkeys and Dropdown menus
 
 **StackEdit**
 
@@ -36,5 +36,6 @@ Pros:
 
 Cons
 
-- After inporting file from Github the site slows down
-- ​
+- After inporting file from GitHub the site slows down
+- Cannot create new branches to commit to.
+- Can commit directly to protected branches.
