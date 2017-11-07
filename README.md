@@ -76,3 +76,5 @@ Cons
 - Allows creation of commit messages.
 
 #### How does Atom deal with pulling from master branch?
+- Not well
+- Git plus improves it, but is not user friendly to those not computer literate.
