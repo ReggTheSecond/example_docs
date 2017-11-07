@@ -2,6 +2,8 @@
 
 **Change made on prose.io**
 
+Pretty sure this will commit directly to master branch.
+
 ## Issues with these Markup Text Editors
 
 They do not allow you to choose or create a branch to commit to.
