@@ -74,3 +74,5 @@ Cons
 - Branch pushed without changes?
 - Includes git diff package
 - Allows creation of commit messages.
+
+#### How does Atom deal with pulling from master branch?
