@@ -58,4 +58,9 @@ Cons
 
 ### Steps to Fetch/Pull from Master Branch
 
-Change made on github.com on branch master.
+1. Select branch <u>Master</u>
+2. Select **Fetch origin**
+3. Return to previous branch
+4. Select **Branch** from the tool bar
+5. Select **Merge into current branch**
+6. Select <u>Master</u>
