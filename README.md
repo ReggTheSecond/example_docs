@@ -72,3 +72,5 @@ Cons
 - Ability to push branches.
 - Ability to pull known branches down from github.com
 - Branch pushed without changes?
+- Includes git diff package
+- Allows creation of commit messages.
