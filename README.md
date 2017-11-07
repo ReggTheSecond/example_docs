@@ -39,3 +39,5 @@ Cons
 - After inporting file from GitHub the site slows down
 - Cannot create new branches to commit to.
 - Can commit directly to protected branches.
+
+### Time to test committing files from a windows PC
