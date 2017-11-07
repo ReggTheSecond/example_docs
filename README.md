@@ -64,5 +64,5 @@ Cons
 2. Select **Fetch origin**
 3. Return to previous branch
 4. Select **Branch** from the tool bar
-5. Select **Merge into current branch**
-6. Select <u>Master</u>
+5. Select **Update from default branch**
+
