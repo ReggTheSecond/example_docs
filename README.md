@@ -67,4 +67,8 @@ Cons
 4. Select **Branch** from the tool bar
 5. Select **Update from default branch**
 
-
+### Advantages of Atom
+- Ability to create branches from atom.
+- Ability to push branches.
+- Ability to pull known branches down from github.com
+- Branch pushed without changes?
