@@ -52,11 +52,12 @@ Cons
 6. Select **Commit**
 7. Select **Push**
 8. Changes are viewable on github.com
-9. github.com displays most recent change made by user with option to *Compare & pull request*
-10. Select *Compare &  pull request* (defaults to comparing to master/ which ever branch is set as the main branch)
-11. Select cog beside **Reviewers**
-12. Added Reviewers to pull request.
-13. Select *Create pull request*
+9. Select **New pull request**
+10. Set the compare branch to merge into <u>Master</u>
+11. Select *Compare &  pull request* (defaults to comparing to master/ which ever branch is set as the main branch)
+12. Select cog beside **Reviewers**
+13. Added Reviewers to pull request.
+14. Select *Create pull request*
 
 ### Steps to Fetch/Pull from Master Branch
 
@@ -65,4 +66,5 @@ Cons
 3. Return to previous branch
 4. Select **Branch** from the tool bar
 5. Select **Update from default branch**
+
 
