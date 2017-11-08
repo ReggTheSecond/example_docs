@@ -104,10 +104,8 @@ Many do not allow you to choose or create a branch to commit to.
 - create branch
 
 #### git-control issues
-- diffing does not work.
 - There seem to several bugs.
 - Logging into GitHub is a bit awkward. Seems to have to be done each time a machine is restarted. And even now I am unsure how to open the login dialog.
 
 #### git-control solution to issues
-- Inbuilt git plugin has a good diff tool.
 - Repository for git-control is active bugs may be fixed in updates.

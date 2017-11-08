@@ -5,11 +5,23 @@ module Pages
     end
 
     def press_menu_button()
-      touch("* id:'menu_button'")
+      return touch("* id:'menu_button'")
     end
 
-    def status_icon_state()
+    def status_icon()
       return query("* id:'status_icon'")[0]["image"]
+    end
+
+    def zoom_in()
+      pinch_in("* id:'graph'")
+    end
+
+    def zoom_out()
+      pinch_out("* id:'graph'")
+    end
+
+    def touch_icon_on_graph(position)
+      return touch("* id:'graph_icon'")[position]
     end
   end
 end
