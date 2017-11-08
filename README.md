@@ -79,4 +79,4 @@ Cons
 - Not well
 - Git plus improves it, but is not user friendly to those not computer literate.
 - Could git-control plugin offer a solution?
-- 
+- git-control seems to work now and includes functions for merging, fetching, pulling, creating tags and creating branches.
