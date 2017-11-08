@@ -109,3 +109,12 @@ Many do not allow you to choose or create a branch to commit to.
 
 #### git-control solution to issues
 - Repository for git-control is active bugs may be fixed in updates.
+
+#### Basic Atom Workflow
+- Make Changes
+- Ctrl + shift + o to open git-control window
+- Select Branch to create new or select branch
+- Selct Commit -> to display commit message dialog
+- Write commit message > click Commit
+- Select Push
+- Select branch to push to
