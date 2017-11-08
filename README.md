@@ -13,7 +13,7 @@ They do not allow you to choose or create a branch to commit to.
 - Might be a good solution for people who are not as computer literal. Only works on windows.
 - Many are not very user-friendly, relying ting, dropdown menus or pure memory.
 
-## **Markdown Editors Examined and issues with them:**
+## Markdown Editors Examined and issues with them:
 
 ## Typora
 
@@ -27,16 +27,16 @@ They do not allow you to choose or create a branch to commit to.
 - No direct GitHub intergration
 - Formating functions only accessable via Hotkeys and Dropdown menus
 
-##StackEdit
+## StackEdit
 
-###Pros:
+### Pros:
 
 - Access documents directly from GitHub
 - Commit directly to GitHub
 - Easy to use toolbar for formating functions
 - In line comments
 
-###Cons
+### Cons
 
 - After inporting file from GitHub the site slows down
 - Cannot create new branches to commit to.
