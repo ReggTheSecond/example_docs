@@ -24,8 +24,8 @@ They do not allow you to choose or create a branch to commit to.
 
 ### Cons:
 
-- No direct GitHub intergration
-- Formating functions only accessable via Hotkeys and Dropdown menus
+- No direct GitHub integration
+- Formatting functions only accessible via Hotkeys and Dropdown menus
 
 ## StackEdit
 
@@ -33,12 +33,12 @@ They do not allow you to choose or create a branch to commit to.
 
 - Access documents directly from GitHub
 - Commit directly to GitHub
-- Easy to use toolbar for formating functions
+- Easy to use toolbar for formatting functions
 - In line comments
 
 ### Cons
 
-- After inporting file from GitHub the site slows down
+- After importing file from GitHub the site slows down
 - Cannot create new branches to commit to.
 - Can commit directly to protected branches.
 
@@ -69,7 +69,7 @@ They do not allow you to choose or create a branch to commit to.
 4. Select **Branch** from the tool bar
 5. Select **Update from default branch**
 
-## Atom as a Markdown editor and git intergration
+## Atom as a Markdown editor and git integration
 
 ### Advantages of Atom
 - Ability to create branches from atom.
@@ -98,7 +98,7 @@ They do not allow you to choose or create a branch to commit to.
 ### git-control issues
 - diff does not work
 - There seem to several bugs
-- Logging into github is a bit awkward.
+- Logging into Github is a bit awkward.
 
 ### git-control solution to issues
 - Inbuilt git plugin has a good diff tool
