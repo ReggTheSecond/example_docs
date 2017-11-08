@@ -81,3 +81,4 @@ Cons
 - Could git-control plugin offer a solution?
 - git-control seems to work now and includes functions for merging, fetching, pulling, creating tags and creating branches.
 - Now for a push from git-control
+- Time to try merging in git-control. This change made on github.com
