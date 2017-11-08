@@ -15,32 +15,34 @@ They do not allow you to choose or create a branch to commit to.
 
 ## **Markdown Editors Examined and issues with them:**
 
-**Typora**
+## Typora
 
-Pros:
+### Pros:
 
 - File tree is clean and easy to use
 - Displays in preview by default
 
-Cons:
+### Cons:
 
 - No direct GitHub intergration
 - Formating functions only accessable via Hotkeys and Dropdown menus
 
-**StackEdit**
+##StackEdit
 
-Pros:
+###Pros:
 
 - Access documents directly from GitHub
 - Commit directly to GitHub
 - Easy to use toolbar for formating functions
 - In line comments
 
-Cons
+###Cons
 
 - After inporting file from GitHub the site slows down
 - Cannot create new branches to commit to.
 - Can commit directly to protected branches.
+
+## GitHub Desktop
 
 ### Steps from making a change to creating a pull request:
 
@@ -67,6 +69,8 @@ Cons
 4. Select **Branch** from the tool bar
 5. Select **Update from default branch**
 
+## Atom as a Markdown editor and git intergration
+
 ### Advantages of Atom
 - Ability to create branches from atom.
 - Ability to push branches.
@@ -75,10 +79,27 @@ Cons
 - Includes git diff package
 - Allows creation of commit messages.
 
-#### How does Atom deal with pulling from master branch?
+### How does Atom deal with pulling from master branch?
 - Not well
 - Git plus improves it, but is not user friendly to those not computer literate.
 - Could git-control plugin offer a solution?
 - git-control seems to work now and includes functions for merging, fetching, pulling, creating tags and creating branches.
 - Now for a push from git-control
 - Time to try merging in git-control. This change made on github.com
+
+### git-control functions
+- merge
+- pull
+- push
+- create tag
+- push tag
+- create branch
+
+### git-control issues
+- diff does not work
+- There seem to several bugs
+- Logging into github is a bit awkward.
+
+### git-control solution to issues
+- Inbuilt git plugin has a good diff tool
+- Repository for git-control is active bugs may be fixed in updates
