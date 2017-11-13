@@ -10,4 +10,5 @@ Feature: Example Requirements
 	Scenario:The Graph functions
 		Then I will select the most recent icon on the Graph
 
-	Scenario:
+	Scenario:The Buttons on the Home screen proform the correct function
+		Then I will confirm that the menu button navigates to the menu screen
