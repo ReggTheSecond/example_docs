@@ -15,4 +15,4 @@
 
 Should requirements be viewable from the same editor? Typora cannot open .feature files.
 
-Having Typroa open with the repository folder structure open can cause issues committing files changed in another program.
+Having Typroa open with the repository folder structure open can cause issues committing files changed in another program. Did not reproduce. 

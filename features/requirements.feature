@@ -13,3 +13,4 @@ Feature: Example Requirements
 	Scenario:The Buttons on the Home screen proform the correct function
 		Then I will confirm that the menu button navigates to the menu screen
 		Then I will do another thing
+		Then I do another thing
