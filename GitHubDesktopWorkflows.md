@@ -55,4 +55,5 @@
 ## Pull Changes to Branch from github.com
 1. Make sure you are on the branch you want to pull from
 2. Select *Fetch origin*
+
 Issue discovered with this. While fetching changes from origin, GitHub Desktop refuses to fetch from github.com for as long as Typora is open.
