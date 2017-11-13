@@ -1,10 +1,10 @@
 module Pages
-  class TestImplementation < Calabash::ABase
+  class HomeScreen < Calabash::ABase
     def trait
       "* id:'home_screen_id'"
     end
 
-    def press_menu_button()
+    def touch_menu_button()
       return touch("* id:'menu_button'")
     end
 
