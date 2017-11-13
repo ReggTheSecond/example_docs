@@ -51,3 +51,7 @@
 4. Return to previous branch
 5. Select *Branch* from the tool bar
 6. Select *Update from default branch*
+
+## Pull Changes to Branch from github.com
+1. Make sure you are on the branch you want to pull from
+2. Select *Fetch origin*
