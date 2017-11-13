@@ -27,5 +27,3 @@ Then(/^I will confirm that the menu button navigates to the menu screen$/) do
     fail()
   end
 end
-
-#This is a comment
