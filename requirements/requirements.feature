@@ -8,8 +8,6 @@ Feature: Example Requirements
 		Then I will see the status icon
 
 	Scenario:The Graph functions
-		Then I will zoom in on the Graph
-		Then I will zoom out on the Graph
 		Then I will select the most recent icon on the Graph
 
 	Scenario:
