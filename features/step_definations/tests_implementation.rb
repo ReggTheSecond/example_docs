@@ -23,6 +23,7 @@ Then(/^I will select the most recent icon on the Graph$/) do
 end
 
 Then(/^I will confirm that the menu button navigates to the menu screen$/) do
+  home_screen.touch_menu_button() 
   if !menu_screen.touch_exit_button()
     fail()
   end

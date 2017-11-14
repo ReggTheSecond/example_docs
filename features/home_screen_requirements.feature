@@ -1,4 +1,4 @@
-Feature: Example Requirements
+Feature: Home Screen Requirements
 
 	Background:
 		Given I launch the app to the "Home" Screen
