@@ -69,3 +69,4 @@ Issue discovered with this. While fetching changes from origin, GitHub Desktop r
 
 These changes are also viewable on github.com when making a pull request.
 
+## Resolving Merge Conflicts
