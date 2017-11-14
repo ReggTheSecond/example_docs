@@ -25,7 +25,7 @@ Can I put the step definitions in a different directory and have them still func
 
 - project folder
   - source
-    - ​
+    - Source Code
   - step_definations
     - page_object_models
       - home_screen_page.rb
@@ -35,4 +35,8 @@ Can I put the step definitions in a different directory and have them still func
     - features
       - requirements.feature
 
-Would the cucumber implementation be able to find the step definitions.
+Would the cucumber implementation be able to find the step definitions? I don't think so, implementations of cucumber have specific required folder structure. This alternate project structure will not work. 
+
+How best to keep code away from non coders?
+
+I don't really know. 
