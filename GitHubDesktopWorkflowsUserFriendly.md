@@ -100,4 +100,4 @@ These changes are also viewable on github.com when making a pull request.
 12. View changes in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
 14. Select Commit to <branch name>
-15. ​
+15. Select "Push"​
