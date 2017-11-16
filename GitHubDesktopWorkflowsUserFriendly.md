@@ -69,9 +69,7 @@ Issue discovered with this. While fetching changes from origin, GitHub Desktop r
 
 These changes are also viewable on github.com when making a pull request.
 
-## Resolving Merge Conflicts
-
-
+## Resolving issues arising from other users changes 
 
 1. Upon seeing the following message:
 
@@ -84,20 +82,23 @@ These changes are also viewable on github.com when making a pull request.
 
 ![](example\Toggle code mode.png)
 
-6. The merge conflict will look something like this:
+6. The conflict will look something like this:
 
 ![](example/Step 2 - View in Code Mode.png)
 
-7. "<<<<<<< HEAD" Marks the start of the content being merged into
-8. "======= " Marks the end of the content being merged into
-9. ">>>>>>> " Marks the end of the changes being merged in
+7. "<<<<<<< HEAD" Marks the start of your content
+8. "======= " Marks the end of the your content and the start of changes brought into your content
+9. ">>>>>>> " Marks the end of the changes brought into your content
 10. Resolve which changes are to be kept and remove duplications. 
-11. Example of resolved merge conflict:
+11. Example of resolved conflict:
 
 
 ![](example/Resolved.png)
 
-12. View changes in GitHub Desktop
+12. View resolved changes in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
 14. Select Commit to <branch name>
-15. Select "Push"​
+15. Select Push Origin
+
+**NOTE** The "=======" That separates your content from content being brought in as part of a conflict also acts as method of creating a Heading 1 in the Markdown language. This is why it is easier to resolve these conflict in Code mode.
+
