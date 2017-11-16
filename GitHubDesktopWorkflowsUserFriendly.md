@@ -70,3 +70,34 @@ Issue discovered with this. While fetching changes from origin, GitHub Desktop r
 These changes are also viewable on github.com when making a pull request.
 
 ## Resolving Merge Conflicts
+
+
+
+1. Upon seeing the following message:
+
+![](example\Step 1.png)
+
+2. Select the Repository dropdown
+3. Select Pull from the dropdown menu
+4. Open a file with a merge conflict
+5. Open the file in Code mode by selecting:
+
+![](example\Toggle code mode.png)
+
+6. The merge conflict will look something like this:
+
+![](example/Step 2 - View in Code Mode.png)
+
+7. "<<<<<<< HEAD" Marks the start of the content being merged into
+8. "======= " Marks the end of the content being merged into
+9. ">>>>>>> " Marks the end of the changes being merged in
+10. Resolve which changes are to be kept and remove duplications. 
+11. Example of resolved merge conflict:
+
+
+![](example/Resolved.png)
+
+12. View changes in GitHub Desktop
+13. In GitHub Desktop write a summery of the changes
+14. Select Commit to <branch name>
+15. ​
