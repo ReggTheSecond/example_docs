@@ -71,18 +71,18 @@ These changes are also viewable on github.com when making a pull request.
 
 ## Resolving issues arising from other users changes 
 
-1. Upon seeing the following message:
+1. The following message indicates that there is a conflict between content being uploaded and the content in the repository:
 
 ![](example\Step 1.png)
 
-2. Select the Repository dropdown
+2. Select the Repository dropdown menu
 3. Select Pull from the dropdown menu
-4. Open a file with a merge conflict
+4. Open a file with a conflict
 5. Open the file in Code mode by selecting:
 
 ![](example\Toggle code mode.png)
 
-6. The conflict will look something like this:
+6. A conflict will look something like this:
 
 ![](example/Step 2 - View in Code Mode.png)
 
@@ -95,10 +95,9 @@ These changes are also viewable on github.com when making a pull request.
 
 ![](example/Resolved.png)
 
-12. View resolved changes in GitHub Desktop
+12. View resolved conflict in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
 14. Select Commit to <branch name>
 15. Select Push Origin
 
 **NOTE** The "=======" That separates your content from content being brought in as part of a conflict also acts as method of creating a Heading 1 in the Markdown language. This is why it is easier to resolve these conflict in Code mode.
-
