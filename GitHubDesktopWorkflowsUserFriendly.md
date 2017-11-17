@@ -10,7 +10,7 @@
 ## Swap between Repositories
 
 1. Select *Current Repository*
-2. Select desired repository
+2. Select desired repository to download
 
 ## Creating a Branch
 
