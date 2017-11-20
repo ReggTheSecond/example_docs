@@ -73,18 +73,18 @@ These changes are also viewable on github.com when making a pull request.
 
 1. Upon seeing the following message:
 
-![](example\Step 1.png)
+![Merge Conflicts Warning](example\Step 1.png)
 
 2. Select the Repository dropdown
 3. Select Pull from the dropdown menu
 4. Open a file with a merge conflict
 5. Open the file in Code mode by selecting:
 
-![](example\Toggle code mode.png)
+![Toggle Typora Code Mode](example\Toggle code mode.png)
 
 6. The conflict will look something like this:
 
-![](example/Step 2 - View in Code Mode.png)
+![Conflict Example](example/Step 2 - View in Code Mode.png)
 
 7. "<<<<<<< HEAD" Marks the start of your content
 8. "======= " Marks the end of the your content and the start of changes brought into your content
@@ -93,7 +93,7 @@ These changes are also viewable on github.com when making a pull request.
 11. Example of resolved conflict:
 
 
-![](example/Resolved.png)
+![Resolved Conflict Example](example/Resolved.png)
 
 12. View resolved changes in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
