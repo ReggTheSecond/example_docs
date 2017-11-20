@@ -86,18 +86,18 @@ These changes are also viewable on github.com when making a pull request.
 
 1. Upon seeing the following message:
 
-![Merge Conflicts Warning](https://github.com/ReggTheSecond/example_docs/blob/master/example/Branching%20Example.png)
+![Merge Conflicts Warning](https://github.com/ReggTheSecond/example_docs/blob/master/example/Merge%20Conflict%20Warning.PNG)
 
 2. Select the Repository dropdown
 3. Select Pull from the dropdown menu
 4. Open a file with a merge conflict
 5. Open the file in Code mode by selecting:
 
-![Toggle Typora Code Mode](example/Toggle Code Mode.PNG)
+![Toggle Typora Code Mode](https://github.com/ReggTheSecond/example_docs/blob/master/example/Toggle%20Code%20Mode.PNG)
 
 6. The conflict will look something like this:
 
-![Conflict Example](example/Example Merge Conflict.PNG)
+![Conflict Example](https://github.com/ReggTheSecond/example_docs/blob/master/example/Example%20Merge%20Conflict.PNG)
 
 7. "<<<<<<< HEAD" Marks the start of your content
 8. "======= " Marks the end of the your content and the start of changes brought into your content
@@ -106,7 +106,7 @@ These changes are also viewable on github.com when making a pull request.
 11. Example of resolved conflict:
 
 
-![Resolved Conflict Example](example/Example Resolved Conflict.PNG)
+![Resolved Conflict Example](https://github.com/ReggTheSecond/example_docs/blob/master/example/Example%20Resolved%20Conflict.PNG)
 
 12. View resolved changes in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
