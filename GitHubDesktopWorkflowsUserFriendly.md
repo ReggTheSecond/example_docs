@@ -1,6 +1,6 @@
 # GitHub Desktop Workflows
 
-## Definations:
+## Definitions:
 
 - **Branch**
 
@@ -10,8 +10,7 @@ A Branch is used to edit files without effecting released documentation, branche
 
 - **Pull Request**
 
-A Pull Request is created when a user wishes to release a document. A Pull Request includes a comparstion of changed files and previews of newly added files.
-Reviewers are required before releasing a document. Reviewers can add comments to the Pull Request for feedback or leave inline comments in comparstion/preview.
+A Pull Request is created when a user wishes to release a document. A Pull Request includes a comparison of changed files and previews of newly added files. Reviewers are required before releasing a document. Reviewers can add comments to the Pull Request for feedback or leave inline comments in comparison/preview.
 
 ## Downloading a Repository
 
