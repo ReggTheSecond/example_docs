@@ -86,7 +86,7 @@ These changes are also viewable on github.com when making a pull request.
 
 1. Upon seeing the following message:
 
-![Merge Conflicts Warning](example/Merge Conflict Warning.PNG)
+![Merge Conflicts Warning](https://github.com/ReggTheSecond/example_docs/blob/master/example/Branching%20Example.png)
 
 2. Select the Repository dropdown
 3. Select Pull from the dropdown menu
