@@ -6,7 +6,7 @@
 
 A Branch is used to edit files without effecting released documentation, branches are also used to write new documentation prior to its release.
 
-![Example of Branching](example/Branching Example.png)
+![Example of Branching](https://github.com/ReggTheSecond/example_docs/blob/master/example/Branching%20Example.png)
 
 - **Pull Request**
 
