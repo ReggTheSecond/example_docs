@@ -69,31 +69,31 @@ Issue discovered with this. While fetching changes from origin, GitHub Desktop r
 
 These changes are also viewable on github.com when making a pull request.
 
-## Resolving issues arising from other users changes 
+## Resolving issues arising from other users changes
 
 1. Upon seeing the following message:
 
-![Merge Conflicts Warning](example\Step 1.png)
+![Merge Conflicts Warning](example/Merge Conflict Warning.PNG)
 
 2. Select the Repository dropdown
 3. Select Pull from the dropdown menu
 4. Open a file with a merge conflict
 5. Open the file in Code mode by selecting:
 
-![Toggle Typora Code Mode](example\Toggle code mode.png)
+![Toggle Typora Code Mode](example/Toggle Code Mode.PNG)
 
 6. The conflict will look something like this:
 
-![Conflict Example](example/Step 2 - View in Code Mode.png)
+![Conflict Example](example/Example Merge Conflict.PNG)
 
 7. "<<<<<<< HEAD" Marks the start of your content
 8. "======= " Marks the end of the your content and the start of changes brought into your content
 9. ">>>>>>> " Marks the end of the changes brought into your content
-10. Resolve which changes are to be kept and remove duplications. 
+10. Resolve which changes are to be kept and remove duplications.
 11. Example of resolved conflict:
 
 
-![Resolved Conflict Example](example/Resolved.png)
+![Resolved Conflict Example](example/Example Resolved Conflict.PNG)
 
 12. View resolved changes in GitHub Desktop
 13. In GitHub Desktop write a summery of the changes
@@ -101,4 +101,3 @@ These changes are also viewable on github.com when making a pull request.
 15. Select Push Origin
 
 **NOTE** The "=======" That separates your content from content being brought in as part of a conflict also acts as method of creating a Heading 1 in the Markdown language. This is why it is easier to resolve these conflict in Code mode.
-
